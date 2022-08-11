@@ -1,6 +1,4 @@
-# stray project
-
-repository for the API Using ExpressJS and PostgresSQL #challengePlatinumBinarAcademy
+# boilerplate express JS
 
 First, run the development server:
 
